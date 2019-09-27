@@ -53,7 +53,7 @@ func main() {
         // chatID: where to send it
         // text: message text
         msg := api.NewMessage(update.Message.Chat.ID, replyMessage)
-        msg.ReplyToMessageID = update.Message.MessageID
+        // msg.ReplyToMessageID = update.Message.MessageID
 
 
 
