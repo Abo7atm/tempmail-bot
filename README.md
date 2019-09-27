@@ -9,5 +9,4 @@ This is a Telegram bot the provides temporary (disposable) emails via chat
 
 
 ## Usage:
-Set your API key as your TG_KEY environment variable
-`go run bot.go`
+Set your API key as your TG_KEY environment variable, then run: `go run bot.go`
